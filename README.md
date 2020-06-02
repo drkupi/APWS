@@ -18,7 +18,9 @@ Scientific details regarding the underlying APWS dataset are available in our [d
 
 ## Authors
 Uttam Ghimire, Dr. Taimoor Akhtar, Dr. Narayan Shrestha and Dr. Prasad Daggupati, UNIVERSITY OF GUELPH.
+
 The shiny application is developed by Dr. Taimoor Akhtar.
+
 Please Contact Us at: akhtart@uoguelph.ca for any questions.
 
 ## Citing Us
