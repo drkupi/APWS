@@ -21,7 +21,7 @@ Uttam Ghimire, Dr. Taimoor Akhtar, Dr. Narayan Shrestha and Dr. Prasad Daggupati
 
 The shiny application is developed by Dr. Taimoor Akhtar.
 
-Please Contact Us at: akhtart@uoguelph.ca for any questions.
+Please Contact Us at: pdaggupa@uoguelph.ca for any questions.
 
 ## Citing Us
 If you use our data, application or codes, please cite this repository (zenodo DOI is provided above) and the following paper:
